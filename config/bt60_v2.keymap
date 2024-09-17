@@ -45,7 +45,7 @@
 &kp TAB    AS(Q)     AS(W)   AS(E)     AS(R)   AS(T)   AS(Y)      AS(U)   AS(I)   AS(O)      AS(P)     AS(LBKT)   AS(RBKT)   AS(BSLH)
 &mo_caps   AS(A)     AS(S)   AS(D)     AS(F)   AS(G)   AS(H)      AS(J)   AS(K)   AS(L)      AS(SEMI)  AS(SQT)               &kp RET
 &kp LSHFT            AS(Z)   AS(X)     AS(C)   AS(V)   AS(B)      AS(N)   AS(M)   AS(COMMA)  AS(DOT)   AS(FSLH)              &kp RSHFT
-&kp LCTRL  &kp LGUI          &kp LALT                  &kp SPACE                             &kp LEFT  &kp DOWN   &kp UP     &kp RIGHT
+&kp LCTRL  &kp LALT          &kp LGUI                  &kp SPACE                             &kp LEFT  &kp DOWN   &kp UP     &kp RIGHT
             >;
         };
 
